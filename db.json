@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple AirPods Pro",
+      "description": "AirPods Pro have been designed to deliver Active Noise Cancellation for immersive sound, Transparency mode so you can hear your surroundings, and a customizable fit for all-day comfort. Just like AirPods, AirPods Pro connect magically to your iPhone or Apple Watch. And they're ready to use right out of the case.",
+      "image": "/images/airpods.jpg",
+      "price": 199
+    },
+    {
+      "id": 2,
+      "title": "Apple Watch",
+      "description": "Apple Watch is a wearable smartwatch that allows users to accomplish a variety of tasks, including making phone calls, sending text messages and reading email. ...",
+      "image": "/images/apple-watch.jpg",
+      "price": 429
+    },
+    {
+      "id": 3,
+      "title": "Apple iPhone 12",
+      "description": "The iPhone 12 features a 6.1-inch (15 cm) display with Super Retina XDR OLED technology at a resolution of 2532×1170 pixels and a pixel density of about 460 ppi. The iPhone 12 Mini features a 5.4-inch (14 cm) display with the same technology at a resolution of 2340×1080 pixels and a pixel density of about 476 ppi.",
+      "image": "/images/iphone-12.jpg",
+      "price": 828
+    },
+    {
+      "id": 4,
+      "title": "Apple iPhone SE",
+      "description": "Apple announced the iPhone SE (second generation) in April 2020 to act as the new budget iPhone. It has 4K video recording capabilities, a 7MP selfie camera, wireless charging, and an A13 chipset, and is available in three colors. This phone completely replaces the iPhone 8, offering great specs for its cheap price.",
+      "image": "/images/iphone-se.jpg",
+      "price": 400
+    },
+    {
+      "id": 5,
+      "title": "Apple MacBook Pro",
+      "description": "Apple MacBook Pro is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 12GB of RAM. The Apple MacBook Pro packs 512GB of SSD storage.",
+      "image": "/images/macbook.jpg",
+      "price": 1499
+    },
+    {
+      "id": 6,
+      "title": "Logitech MX Master",
+      "description": "Logitech MX Master 3 Advanced Wireless Mouse, Ultrafast Scrolling, Ergonomic, 4000 DPI, Customization, USB-C, Bluetooth, USB, Apple Mac, Microsoft PC Windows, Linux, iPad - Graphite",
+      "image": "/images/mouse.jpg",
+      "price": 84
+    }
+  ]
+}
