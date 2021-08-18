@@ -2,7 +2,7 @@ import axios from "axios";
 
 export const addToCart = (id) => async (dispatch, getState) => {
   const { data } = await axios.get(
-    `http://my-json-server.typicode.com/alirezamxz/shoppingCart/products/${id}`
+    `https://my-json-server.typicode.com/alirezamxz/shoppingCart/products/${id}`
   );
 
   dispatch({
